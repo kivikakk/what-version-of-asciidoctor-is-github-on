@@ -1,0 +1,1 @@
+GitHub is running Asciidoctor {asciidoctor-version}.
