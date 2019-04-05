@@ -1,1 +1,3 @@
 GitHub is running Asciidoctor {asciidoctor-version}.
+
+(note this render may be cached)
